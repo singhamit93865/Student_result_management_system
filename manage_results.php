@@ -101,7 +101,7 @@
     </div>
 
     <!-- <div class="footer">
-        <span>Designed & Coded By Jibin Thomas</span>
+       
     </div> -->
     
 </body>
